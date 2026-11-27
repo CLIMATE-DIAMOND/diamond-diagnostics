@@ -2,7 +2,7 @@
 
 ## Overview
 
-Python-based routines for calculating diagnostic indicators from Integrated Assessment Model (IAM) scenario results, developed within the Horizon Europe DIAMOND project.
+Python-based notebook for calculating diagnostic indicators from Integrated Assessment Model (IAM) scenario results, developed within the Horizon Europe DIAMOND project.
 
 The methodology follows Harmsen et al. (2021), as adapted in DIAMOND Deliverable D6.7, *Open Science Protocols & Diagnostics*.
 
